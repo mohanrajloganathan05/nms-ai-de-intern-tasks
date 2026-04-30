@@ -1,0 +1,101 @@
+text,intent
+Book a cab,travel
+I need a taxi,travel
+Find me a ride,travel
+Call a cab,travel
+Get me a taxi,travel
+Book an uber,travel
+Schedule a ride,travel
+I want to travel,travel
+Arrange transport,travel
+Book a bike ride,travel
+Find nearby taxi,travel
+Ride to airport,travel
+Drop me home,travel
+Pick me up,travel
+Need a cab urgently,travel
+Book ride for tomorrow,travel
+I need transport now,travel
+Find cab near me,travel
+Take me to office,travel
+Ride booking needed,travel
+I want to go somewhere,travel
+Get me a ride fast,travel
+Arrange a pickup,travel
+Cab booking please,travel
+Need a driver,travel
+Order pizza,food
+I want burger,food
+Get me some food,food
+Order dinner,food
+I am hungry,food
+Buy me a sandwich,food
+Order lunch,food
+Get food delivered,food
+I want to eat,food
+Order biryani,food
+Bring snacks,food
+Order fast food,food
+I need something to eat,food
+Get me dosa,food
+Order meals,food
+Food delivery please,food
+I want dinner now,food
+Order breakfast,food
+Get me lunch,food
+Buy me food,food
+I feel hungry,food
+Send food home,food
+Order snacks online,food
+I want something tasty,food
+Bring me food,food
+Buy a phone,shopping
+Order shoes,shopping
+I want to shop,shopping
+Purchase laptop,shopping
+Buy clothes,shopping
+Add to cart,shopping
+Order online,shopping
+Shop for groceries,shopping
+Buy electronics,shopping
+Get me a new phone,shopping
+Purchase items,shopping
+I want to buy something,shopping
+Order a watch,shopping
+Buy headphones,shopping
+Shop online,shopping
+I need new shoes,shopping
+Buy a gift,shopping
+Purchase accessories,shopping
+Order gadgets,shopping
+Shop for clothes,shopping
+I want to purchase items,shopping
+Buy something online,shopping
+Add items to cart,shopping
+Order products,shopping
+Get me shopping deals,shopping
+Hello,greeting
+Hi,greeting
+Hey,greeting
+Good morning,greeting
+Good evening,greeting
+How are you,greeting
+What's up,greeting
+Hi there,greeting
+Hello buddy,greeting
+Hey bro,greeting
+Good afternoon,greeting
+Nice to meet you,greeting
+Greetings,greeting
+Hey there,greeting
+Hi hello,greeting
+Hello there,greeting
+Hey friend,greeting
+Good day,greeting
+How’s it going,greeting
+Hi buddy,greeting
+Hey dude,greeting
+Hello friend,greeting
+Hi bro,greeting
+Hey hello,greeting
+Hi good morning,greeting
