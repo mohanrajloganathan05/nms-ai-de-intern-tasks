@@ -1,0 +1,6 @@
+nltk
+textblob
+wordfreq
+language-tool-python
+colorama
+pickle-mixin
